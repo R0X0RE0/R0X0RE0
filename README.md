@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
-<i class="fa fa-github"> </i> <h2> RoxNoAnne's GitHub Account </h2>
+<i class="fa fa-github"></i> <h2> RoxNoAnne's GitHub Account </h2>
 
 <!--
 **R0X0RE0/R0X0RE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
