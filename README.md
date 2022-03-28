@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<i class="fa fa-github"> </i> ## RoxNoAnne's GitHub Account
+<i class="fa fa-github"> </i> <h2> RoxNoAnne's GitHub Account </h2>
 
 <!--
 **R0X0RE0/R0X0RE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
