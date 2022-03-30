@@ -1,8 +1,7 @@
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-
-
 ## RoxNoAnne's GitHub Account
+***
+`a`
+
 
 <!--
 **R0X0RE0/R0X0RE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
