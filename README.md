@@ -2,7 +2,7 @@
 ## About Me
 - Favorite Programming Language is C
 - I speak English (native language, yawn), and can speak German but I am very bad at it. I can read Cyrillic but I can't read any of the languages in that writing system that well.
-- King Gizz fan
+- King Gizz, black midi, Deftones fan
 ***
 ## Socials
 - Discord : RoxNoAnne#6418
