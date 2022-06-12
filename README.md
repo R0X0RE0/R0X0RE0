@@ -5,7 +5,6 @@
 - King Gizz, black midi, Deftones fan
 ***
 # Check out my website! https://roxnoanne.xyz
-***
 
 
 <!--
