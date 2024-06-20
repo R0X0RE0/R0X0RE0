@@ -4,7 +4,7 @@
 - I speak English (native language, yawn), and can speak German but I am very bad at it. I can read Cyrillic but I can't read any of the languages in that writing system that well.
 - King Gizz, black midi, Deftones fan
 ***
-# Check out my website! https://roxnoanne.xyz
+# Check out my website! https://roxnoanne.fun
 
 
 <!--
